@@ -4,7 +4,7 @@ Hi 👋 My name is Sanket
 Front End Developer
 -------------------
 
-Building websites using react, redux and javascript.
+If you think math is hard, try web design.
 
 * 🌍  I'm based in Pune
 

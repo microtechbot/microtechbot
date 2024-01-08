@@ -34,16 +34,16 @@ If you think math is hard, try web design.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/brownguyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sanket-zende-714737a2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/zendevo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sanket-zende-714737a2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/brownguyy"><img src="https://github-readme-stats.vercel.app/api?username=brownguyy&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="brownguyy's GitHub stats" /></a>
+<a href="http://www.github.com/zendevo"><img src="https://github-readme-stats.vercel.app/api?username=zendevo&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="zendevo's GitHub stats" /></a>
 
-<a href="http://www.github.com/brownguyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brownguyy&stroke=0f172a&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=0f172a&currStreakLabel=6366f1&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+<a href="http://www.github.com/zendevo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zendevo&stroke=0f172a&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=0f172a&currStreakLabel=6366f1&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="http://www.github.com/brownguyy"><img src="https://activity-graph.herokuapp.com/graph?username=brownguyy&bg_color=ffffff&color=0f172a&line=64748b&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/zendevo"><img src="https://activity-graph.herokuapp.com/graph?username=zendevo&bg_color=ffffff&color=0f172a&line=64748b&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/brownguyy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brownguyy&langs_count=10&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/zendevo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendevo&langs_count=10&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
